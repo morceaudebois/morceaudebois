@@ -2,7 +2,7 @@
 
 I'm a part time __indie developer__ who does a bit of everything. I create __open source__ projects that focus on *quality*, *minimalism* and *user experience* such as the ones you'll find below :)
 
-👉 I'm currently working on <a href="https://github.com/morceaudebois/pourcentag.es">pourcentag.es</a> and <a href="https://github.com/victrme/Bonjourr">Bonjourr</a>.
+✨ Check out my latest projects, [Debrandify](https://github.com/morceaudebois/debrandify) & [Unsplash Minus](https://github.com/morceaudebois/unsplash-minus)! 
 
 Thank you for passing by, see ya!
 
