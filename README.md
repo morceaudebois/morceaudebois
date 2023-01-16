@@ -2,7 +2,7 @@
 
 I'm a part time __indie developer__ who does a bit of everything. I create __open source__ projects that focus on *quality*, *minimalism* and *user experience* such as the ones you'll find below :)
 
-✨ Check out my latest projects, [Debrandify](https://github.com/morceaudebois/debrandify) & [Unsplash Minus](https://github.com/morceaudebois/unsplash-minus)! 
+✨ Check out my latest projects, [Debrandify](https://github.com/morceaudebois/debrandify) & [Minus for Unsplash](https://github.com/morceaudebois/minus-for-unsplash)! 
 
 Thank you for passing by, see ya!
 
